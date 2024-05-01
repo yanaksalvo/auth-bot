@@ -1,2 +1,4 @@
-# auth-bot
-Gelişmiş auth bot 
+# AUTH BOT
+
+* Discord : kemosalvo
+* Telegram : @tehlikeliadam
